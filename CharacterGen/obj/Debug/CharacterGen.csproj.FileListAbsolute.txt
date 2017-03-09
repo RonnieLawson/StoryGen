@@ -1,0 +1,5 @@
+C:\dev\personal\StoryGen\CharacterGen\bin\Debug\CharacterGen.dll
+C:\dev\personal\StoryGen\CharacterGen\bin\Debug\CharacterGen.pdb
+C:\dev\personal\StoryGen\CharacterGen\obj\Debug\CharacterGen.csprojResolveAssemblyReference.cache
+C:\dev\personal\StoryGen\CharacterGen\obj\Debug\CharacterGen.dll
+C:\dev\personal\StoryGen\CharacterGen\obj\Debug\CharacterGen.pdb
