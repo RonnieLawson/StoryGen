@@ -1,7 +1,0 @@
-C:\dev\personal\StoryGen\CharacterGen.Tests\bin\Debug\CharacterGen.Tests.dll
-C:\dev\personal\StoryGen\CharacterGen.Tests\bin\Debug\CharacterGen.Tests.pdb
-C:\dev\personal\StoryGen\CharacterGen.Tests\bin\Debug\nunit.framework.dll
-C:\dev\personal\StoryGen\CharacterGen.Tests\bin\Debug\nunit.framework.xml
-C:\dev\personal\StoryGen\CharacterGen.Tests\obj\Debug\CharacterGen.Tests.csprojResolveAssemblyReference.cache
-C:\dev\personal\StoryGen\CharacterGen.Tests\obj\Debug\CharacterGen.Tests.dll
-C:\dev\personal\StoryGen\CharacterGen.Tests\obj\Debug\CharacterGen.Tests.pdb

@@ -1,5 +1,0 @@
-C:\dev\personal\StoryGen\StoryGen\bin\Debug\StoryGen.dll
-C:\dev\personal\StoryGen\StoryGen\bin\Debug\StoryGen.pdb
-C:\dev\personal\StoryGen\StoryGen\obj\Debug\StoryGen.csprojResolveAssemblyReference.cache
-C:\dev\personal\StoryGen\StoryGen\obj\Debug\StoryGen.dll
-C:\dev\personal\StoryGen\StoryGen\obj\Debug\StoryGen.pdb
